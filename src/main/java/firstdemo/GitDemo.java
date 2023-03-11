@@ -1,20 +1,9 @@
-/**
- * 
- */
 package firstdemo;
 
-/**
- * @author Harish
- *
- */
-public class FirstDemo {
+public class GitDemo {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Git Demo");
 		System.out.println("Git Demo2");
 	}
 
